@@ -11,9 +11,8 @@ environment:
 dependencies:
   animated_text_kit: ^4.2.1
   better_player:
-    # git:
-    #   url: https://github.com/BeamlakAschalew/flixquest-betterplayer.git
-    path: ../flixquest-betterplayer
+    git:
+     url: https://github.com/BeamlakAschalew/flixquest-betterplayer.git
   cached_network_image: ^3.2.1
   carousel_slider: ^5.0.0
   clipboard: ^0.1.3
